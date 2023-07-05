@@ -1,17 +1,5 @@
 # Chatbot Deployment with Flask and JavaScript
-
-### **Chatbot Assistance**
-
-**Purpose**: To provide round-the-clock customer service that can efficiently handle common queries and issues, improving customer satisfaction and freeing up staff for more complex tasks.
-
-**Requirements**:
-
-- An AI-based text chatbot integrated into the web application.
-- Pre-programmed responses for common customer queries like "What is your operation hours?", "What is the status of my order?", etc.
-- User-friendly interface for customers to interact with the chatbot.
-
-**Metrics for success**: Decrease in basic customer inquiries handled by human staff and positive user feedback about the chatbot.
-
+ 
 - Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.
 
 ## Initial Setup:

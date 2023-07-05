@@ -1,9 +1,7 @@
 # Chatbot Deployment with Flask and JavaScript
 
-![chatbot](https://github.com/9802HEMENSAN/ChatBot/assets/111531676/c3bdcaa9-379b-475e-9139-bcee1546c6b8)
-
-
-### **Chatbot Assistance**
+<img width="500px" height="500px" src="![chatbot](https://github.com/9802HEMENSAN/ChatBot/assets/111531676/c3bdcaa9-379b-475e-9139-bcee1546c6b8)"/>
+ ### **Chatbot Assistance**
 
 **Purpose**: To provide round-the-clock customer service that can efficiently handle common queries and issues, improving customer satisfaction and freeing up staff for more complex tasks.
 
